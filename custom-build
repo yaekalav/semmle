@@ -2,3 +2,4 @@
 
 javac src/Main.java
 whoami
+cat /etc/passwd
