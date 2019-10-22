@@ -1,5 +1,0 @@
-#! /bin/bash
-
-javac src/Main.java
-whoami
-cat /etc/passwd
